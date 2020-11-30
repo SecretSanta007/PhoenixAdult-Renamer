@@ -54,13 +54,4 @@ In names_all the script can detect the pornstars. This is important for the diff
 In remove_this_words the script will ignore these words for determings whatether to choose the layouts and it will just ignore them in the renames. This list is probably not long anough at all, so imporvements here are always welcome!
 
 
-# Price of the script
-The script is free but donations are always awesome to get! 
-Although I would be more happy to get improvements. :) 
-If you still want to donate well, I'm not stopping you.
-
-You can donate in the following ways:
-
-Amazon giftcards: Please email me at skylinetag7outlook.com
-
-Bitcoins: 3AWpu1BZbT7ic6bD7cWDGknTgFqULW81ny 
+ 
